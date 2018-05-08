@@ -1,1 +1,5 @@
-module.exports = undefined
+module.exports = {
+    devServer: {
+        port: 8081
+    }
+}
